@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Section */
+#nav-section {
+    background-color: blue;
+    color: white;
+}
+
+#nav-section nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+#nav-section .UL-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-section .UL-list li {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#nav-section .UL-list li:hover {
+    background-color: darkblue;
+}
+
+/* Main Section */
+.main-section {
+    text-align: center;
+    padding: 50px;
+    background-color: lightgray;
+}
+
+.main-section h1 {
+    margin: 0;
+    color: darkred;
+}
+
+.main-section .Main-heading {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+}
+
+.main-section p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: darkslategray;
+}
