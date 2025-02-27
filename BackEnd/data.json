@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Mujtaba Ali",
+        "email": "ma.mujtaba12@gmail.com",
+        "salary": 50000
+    },
+    {
+        "id": 2,
+        "name": "Ali Mujtaba",
+        "email": "f223650@gfc.nu.edu.pk",
+        "salary": 60000
+    }
+]
